@@ -31,7 +31,7 @@ The goal of this analysis is to understand revenue trends, product and category 
 
 ### 1. Convert One-Time Buyers into Repeat Customers
 
-Launch a 30-day post-purchase email or voucher campaign for one-time buyers, offering a small discount on their next purchase. Medium-spending customers should be prioritized because they contributed **$9.17M or 57.26%** of total customer spending.
+Introduce a simple loyalty or rewards program that gives customers points, discounts, or exclusive offers after each purchase. Prioritize Medium-spending and one-time customers with personalized rewards based on their previous purchases, since Medium-spending customers generated $9.17M (57.26%) of total spending while 96.88% of customers were one-time buyers.
 
 ### 2. Prepare for Peak-Season Demand
 
